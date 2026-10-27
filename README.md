@@ -4,6 +4,10 @@
 
 不用安装任何东西，不用注册，也不会上传你的数据：所有内容只保存在你自己的浏览器里。
 
+**在线使用：[mountaindonkey.github.io/resume-tuner](https://mountaindonkey.github.io/resume-tuner/)**
+
+[![简历排版调节器界面截图](./screenshot.png)](https://mountaindonkey.github.io/resume-tuner/)
+
 ## 特点
 
 - **所见即所得**：右侧就是 A4 纸面，点击任意文字直接编辑。
@@ -19,12 +23,10 @@
 
 ## 怎么用
 
-1. 下载 `index.html`，用 Chrome 或 Edge 打开。
+1. 打开[在线版](https://mountaindonkey.github.io/resume-tuner/)，或者下载 `index.html` 用 Chrome / Edge 打开（离线也能用）。
 2. 点击右侧简历上的文字，换成你自己的内容。
 3. 用左侧面板调整字号、间距和颜色，直到满意。
 4. 在"保存与导出"里点 **导出 PDF** 或 **导出图片**。
-
-> 导出按钮只在本地打开的文件中显示。
 
 ### 导出 PDF 的设置
 
